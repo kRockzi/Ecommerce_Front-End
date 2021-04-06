@@ -1,0 +1,125 @@
+{
+  "products": [
+    {
+      "title": "Nike Men's Air",
+      "price": "250.99",
+      "image": "./images/pic1.png",
+      "category": "trend"
+    },
+    {
+      "title": "Baseball Cap",
+      "price": "150",
+      "image": "./images/pic2.png",
+      "category": "trend"
+    },
+    {
+      "title": "Classic Anti Theft",
+      "price": "200",
+      "image": "./images/pic3.png",
+      "category": "featured"
+    },
+    {
+      "title": "White Classic XL",
+      "price": "300.99",
+      "image": "./images/pic6.png",
+      "category": "trend"
+    },
+    {
+      "title": "Bucket Hat White",
+      "price": "200.99",
+      "image": "./images/pic5.png",
+      "category": "featured"
+    },
+    {
+      "title": "Denim Jacket",
+      "price": "2000.99",
+      "image": "./images/pic14.png",
+      "category": "trend"
+    },
+    {
+      "title": "Denim Jacket",
+      "price": "2000.99",
+      "image": "./images/pic7.png",
+      "category": "featured"
+    },
+    {
+      "title": "Blue Cap",
+      "price": "200.99",
+      "image": "./images/pic11.png",
+      "category": "featured"
+    },
+    {
+      "title": "Black Hoodie",
+      "price": "500.99",
+      "image": "./images/pic9.png",
+      "category": "special"
+    },
+    {
+      "title": "Camo Cap",
+      "price": "150",
+      "image": "./images/pic10.png",
+      "category": "special"
+    },
+    {
+      "title": "Nike Air Red",
+      "price": "4000.99",
+      "image": "./images/pic13.png",
+      "category": "special"
+    },
+    {
+      "title": "Fancy Top",
+      "price": "400",
+      "image": "./images/pic12.png",
+      "category": "special"
+    },
+    {
+      "title": "Anti Theft Red",
+      "price": "3000.99",
+      "image": "./images/pic8.png",
+      "category": "latest"
+    },
+    {
+      "title": "Soft Cotton",
+      "price": "330.99",
+      "image": "./images/pic15.png",
+      "category": "latest"
+    },
+    {
+      "title": "Classic T-Shirt",
+      "price": "3300.99",
+      "image": "./images/pic4.png",
+      "category": "latest"
+    },
+    {
+      "title": "Leather Jacket",
+      "price": "2000.99",
+      "image": "./images/pic16.png",
+      "category": "recent"
+    },
+    {
+      "title": "Jacket Red",
+      "price": "2400.99",
+      "image": "./images/pic17.png",
+      "category": "latest"
+    },
+    {
+      "title": "T-Shirt Black",
+      "price": "2740.99",
+      "image": "./images/pic18.png",
+      "category": "recent"
+    },
+    {
+      "title": "Hoodie Red",
+      "price": "3330.99",
+      "image": "./images/pic20.png",
+      "category": "recent"
+    },
+    {
+      "title": "T-Shirt White",
+      "price": "1230.99",
+      "image": "./images/pic19.png",
+      "category": "recent"
+    }
+    
+  ]
+}
